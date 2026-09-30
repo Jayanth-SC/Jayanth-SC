@@ -24,14 +24,9 @@ LAUNCH NOTES (delete this comment before publishing)
 
 ## Core expertise
 
-**SAP planning**
-Demand Planning · Supply Planning · Inventory Optimization · S&OP · Response & Supply · Planning Areas, Key Figures, Master Data Types, Planning Levels · Time-Series and Order-Based Planning · Supply Planning Heuristics and Optimizer · SAP IBP Configuration
-
-**Integration and analytics**
-IBP–S/4HANA integration · CPI-DS / CI-DS · OData and IBP APIs · RTI · IBP Control Tower and Excel Add-In · SAP BTP · SAP Datasphere · SAP Analytics Cloud
-
-**Consulting delivery**
-Requirements and fit-to-standard workshops · functional design · SIT / UAT · go-live and hypercare · production support · business-to-technical translation
+<div align="center">
+  <img src="core-expertise.svg" alt="Core expertise: SAP planning models and logic (Demand, Supply, Inventory Optimization, S&OP, planning areas, key figures, time-series and order-based planning), integration and analytics (IBP-S/4HANA, CPI-DS, OData, RTI, Control Tower, BTP, Datasphere, SAC), and consulting delivery from workshops to hypercare." width="100%"/>
+</div>
 
 ## Technical ecosystem
 
