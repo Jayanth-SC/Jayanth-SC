@@ -1,16 +1,135 @@
-## Hi there 👋
+<!--
+LAUNCH NOTES (delete this comment before publishing)
+1. Repo must be PUBLIC and named exactly your username: USERNAME/USERNAME.
+2. Copy the assets/ folder next to this README (run tools/generate_assets.py to regenerate).
+3. Replace every USERNAME and every [NEEDS INPUT].
+4. "Featured projects": keep only rows whose status is true today. Link a repo only once it exists.
+5. Remove the "Professional experience highlights" table rows if your employer/client confidentiality terms require it.
+-->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
+    <img alt="Jayanth K, SAP Supply Chain Planning Consultant. Demand and supply planning, SAP IBP, APO and S/4HANA, data engineering, ML and cloud." src="assets/hero-dark.svg" width="100%">
+  </picture>
+</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jayanth-8b821b407/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#certifications">Certifications</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
+
+## About
+
+I design and run planning systems for supply chains: SAP IBP and SAP APO for demand, supply, inventory and S&OP, integrated with S/4HANA. I hold Databricks and AWS certifications in data engineering, machine learning and generative AI, and I use this account to build open, documented engineering projects at the point where those areas meet.
+
+Everything under **Featured projects** is personal or demonstration work on synthetic data. None of it is employer or client work.
+
+## Core expertise
+
+**SAP planning**
+Demand Planning · Supply Planning · Inventory Optimization · S&OP · Response & Supply · Planning Areas, Key Figures, Master Data Types, Planning Levels · Time-Series and Order-Based Planning · Supply Planning Heuristics and Optimizer · SAP IBP Configuration
+
+**Integration and analytics**
+IBP–S/4HANA integration · CPI-DS / CI-DS · OData and IBP APIs · RTI · IBP Control Tower and Excel Add-In · SAP BTP · SAP Datasphere · SAP Analytics Cloud
+
+**Consulting delivery**
+Requirements and fit-to-standard workshops · functional design · SIT / UAT · go-live and hypercare · production support · business-to-technical translation
+
+## Technical ecosystem
+
+| Layer | Tools |
+|---|---|
+| Planning | SAP IBP, SAP APO, S/4HANA (incl. AATP) |
+| Integration | CPI-DS / CI-DS, SAP SDI, OData / IBP APIs, RTI |
+| Data and analytics | Databricks, SAP Datasphere, SAP Analytics Cloud |
+| ML and GenAI | Databricks ML and GenAI tooling, AWS AI services |
+| Cloud | AWS, SAP BTP |
+| Project stack | Python, SQL [NEEDS INPUT: confirm before keeping] |
+
+## Professional experience highlights
+
+Figures below come from my resume and describe production SAP work, not the projects further down.
+
+| Scope | Detail |
+|---|---|
+| Experience | 4+ years in SAP IBP and SAP APO |
+| Scale supported | 65 planners · 1,200 products · 35 locations · 180,000 planning combinations |
+| Planning models | 6 SAP IBP planning models configured; 12 demand and forecasting models built, tracking 20 planning and forecast KPIs |
+| Supply planning | 14 supply-planning scenarios designed to address 35 supply exceptions and shortages |
+| Inventory and service | Inventory and service-level planning across 900 products and 30 locations: planning efficiency +15%, service levels +4%, inventory performance +8% |
+| Integration | 9 SAP IBP integrations and 14 interfaces with S/4HANA and non-SAP systems |
+| Analytics | 8 IBP Analytics, Control Tower and Excel Add-In solutions covering 25 planning KPIs |
+| Performance | Planning and processing cycle time improved 30% across 180,000 planning combinations |
+| Delivery | 20 workshops · 28 functional designs and solution changes · 14 releases and enhancements · 50 defects and incidents resolved · 25% reduction in manual effort and recurring issues |
+
+Current role: SAP IBP Consultant, CHS Inc (Jan 2025 to present). Previously SAP APO Consultant, Mars Incorporated (Apr 2022 to Jan 2024).
+
+## Featured projects
+
+Personal and demonstration projects, built on synthetic data and documented engineering decisions. Status is updated as work ships.
+
+| Project | What it demonstrates | Stack | Status |
+|---|---|---|---|
+| planning-model-simulator | Planning-area concepts as code: key figures, planning levels, aggregation and disaggregation, scenarios | Python, FastAPI, DuckDB | [NEEDS INPUT: Planned / In progress / Released] |
+| supply-planning-optimizer | Heuristic versus optimizer supply planning over a modeled network, with shortage explanations | Python, PuLP, HiGHS | [NEEDS INPUT] |
+| forecast-accuracy-lab | Backtesting, WAPE / bias / MASE, forecast value add, segment-based model selection | Python, statsforecast, LightGBM, MLflow | [NEEDS INPUT] |
+| planning-data-lakehouse | Medallion pipeline with declarative master-data validation and reconciliation | PySpark, Delta, Databricks | [NEEDS INPUT] |
+| supply-chain-copilot | Tool-grounded GenAI assistant with numeric verification and an evaluation harness | Python, FastAPI, AWS Bedrock | [NEEDS INPUT] |
+| planning-control-tower | Exception-driven planning dashboard, deployed to AWS with Terraform | Streamlit, Plotly, Terraform, AWS | [NEEDS INPUT] |
+
+<!-- When a repo ships, change the name cell to: [planning-model-simulator](https://github.com/USERNAME/planning-model-simulator) -->
+
+## How I think about planning systems
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/planning-flow-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/planning-flow-light.svg">
+    <img alt="Planning landscape: source systems feed an integration layer, then planning, then analytics. Exceptions flow back to planners." src="assets/planning-flow-dark.svg" width="90%">
+  </picture>
+</div>
+
+A plan is only as good as the data that reaches the planning model and the attention it earns from planners. I work across all four stages: master-data quality and integration reconciliation upstream, model design in the middle, and exception-based analytics downstream so planners see what needs a decision.
+
+## Data, AI and cloud
+
+- **Data engineering:** validation, transformation and reconciliation of planning data, backed by Databricks data engineering certification.
+- **Machine learning:** forecasting evaluation and model selection, backed by Databricks ML certification.
+- **Generative AI:** grounded assistants over planning data, backed by Databricks GenAI and AWS AI certifications.
+- **Cloud:** AWS fundamentals applied to small, reproducible deployments.
+
+## Certifications
+
+- Databricks Certified Data Engineer Professional
+- Databricks Certified Machine Learning Professional
+- Databricks Certified Generative AI Engineer Associate
+- Databricks Certified Data Analyst Associate
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+
+Verification links: [NEEDS INPUT: Credly or Databricks credential URLs]
+
+## Education
+
+- M.S. Information Science, University of North Texas (Jan 2024 to Dec 2025)
+- B.E., Siddaganga Institute of Technology (Aug 2018 to Aug 2022)
+
+## Current focus
+
+Building the projects above in the open, one documented release at a time, with CI, tests and architecture notes in each repository.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jayanth-8b821b407/) is the best way to reach me. Charlotte, NC. [NEEDS INPUT: add your relocation line if you want it public.]
 
 <!--
-**Jayanth-SC/Jayanth-SC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+OPTIONAL: contribution and stats visuals.
+Skip third-party stats cards. The public github-readme-stats instance is shared and can hit GitHub API rate limits.
+If you want stats later, generate an SVG with your own scheduled GitHub Action and commit it to this repo, then reference it with a relative path.
 -->
+
+<p align="center"><sub>Projects use synthetic data. SAP, SAP IBP, SAP APO and S/4HANA are trademarks of SAP SE; this account is not affiliated with or endorsed by SAP.</sub></p>
