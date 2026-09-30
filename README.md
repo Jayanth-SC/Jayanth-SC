@@ -18,11 +18,9 @@ LAUNCH NOTES (delete this comment before publishing)
   <a href="#contact">Contact</a>
 </p>
 
-## About
-
-I design and run planning systems for supply chains: SAP IBP and SAP APO for demand, supply, inventory and S&OP, integrated with S/4HANA. I hold Databricks and AWS certifications in data engineering, machine learning and generative AI, and I use this account to build open, documented engineering projects at the point where those areas meet.
-
-Everything under **Featured projects** is personal or demonstration work on synthetic data. None of it is employer or client work.
+<div align="center">
+  <img alt="About Jayanth K: SAP supply chain planning consultant with 4+ years in SAP IBP and SAP APO, covering demand planning, supply planning, inventory optimization and S&OP, integrated with S/4HANA. Supported 65 planners across 1,200 products, 35 locations and 180,000 planning combinations. Certified on Databricks and AWS in data engineering, ML and generative AI. Builds open, documented projects where planning, data, AI and cloud meet. Projects are personal work on synthetic data, not employer or client work." src="about.svg" width="100%">
+</div>
 
 ## Core expertise
 
