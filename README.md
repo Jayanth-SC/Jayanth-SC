@@ -11,18 +11,9 @@ LAUNCH NOTES (delete this comment before publishing)
   <img alt="Jayanth K, SAP Supply Chain Planning Consultant. Demand and supply planning, SAP IBP, APO and S/4HANA, data engineering, ML and cloud." src="hero.svg" width="100%">
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jayanth-8b821b407/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
-  <a href="#certifications">Certifications</a> &nbsp;·&nbsp;
-  <a href="#contact">Contact</a>
-</p>
-
 <div align="center">
   <img alt="About Jayanth K: SAP supply chain planning consultant with 4+ years in SAP IBP and SAP APO, covering demand planning, supply planning, inventory optimization and S&OP, integrated with S/4HANA. Supported 65 planners across 1,200 products, 35 locations and 180,000 planning combinations. Certified on Databricks and AWS in data engineering, ML and generative AI. Builds open, documented projects where planning, data, AI and cloud meet. Projects are personal work on synthetic data, not employer or client work." src="about.svg" width="100%">
 </div>
-
-## Core expertise
 
 <div align="center">
   <img src="core-expertise.svg" alt="Core expertise: SAP planning models and logic (Demand, Supply, Inventory Optimization, S&OP, planning areas, key figures, time-series and order-based planning), integration and analytics (IBP-S/4HANA, CPI-DS, OData, RTI, Control Tower, BTP, Datasphere, SAC), and consulting delivery from workshops to hypercare." width="100%"/>
