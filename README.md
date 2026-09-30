@@ -8,11 +8,7 @@ LAUNCH NOTES (delete this comment before publishing)
 -->
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-    <img alt="Jayanth K, SAP Supply Chain Planning Consultant. Demand and supply planning, SAP IBP, APO and S/4HANA, data engineering, ML and cloud." src="assets/hero-dark.svg" width="100%">
-  </picture>
+  <img alt="Jayanth K, SAP Supply Chain Planning Consultant. Demand and supply planning, SAP IBP, APO and S/4HANA, data engineering, ML and cloud." src="assets/hero.svg" width="100%">
 </div>
 
 <p align="center">
