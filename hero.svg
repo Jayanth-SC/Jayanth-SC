@@ -1,50 +1,109 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpjNmVlMTQ4Yi0xOTBlLTRkOWMtYTlhMi04MzE5YzMzOTk4NjEAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaBDejrxP2p6DBHx4xGXqH1wAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDoxNTYwNjY4NS02YzBlLTQ4NjItOTkwMS03YWViZWEyMzViMjhscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNor0Ps4gFqOIVHOdBxUrWgDAAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggh5s++WBP1qfNbpKgnzLXRoKbWzvFgOkhQSKC9Su1dbakZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaCwGaQ9U3Ea6WiwhhNkISCUAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCCkfr8Hwr6HiWG45iJxxcifVdmK0KPibdikwQy9grzDlWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBieZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmM2ZWUxNDhiLTE5MGUtNGQ5Yy1hOWEyLTgzMTljMzM5OTg2MS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjYzZjY5MmNkLWI3YzctNGNjMS1hN2FjLTg3ZjU2N2NiODZiZnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCHmz75YE/Wp81ukqCfMtdGgptbO8WA6SFBIoL1K7V1tqJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggoyNQZh/U1pU2NqcpZmIx9R+25Q3D6Y3ZLgFsMU699rqiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggNopv99Uh/pNJCAKGQVWDZv+at5TxLMs2cQQ4kvpcOwR0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQNN8Wye18RZdf1opq8M0d9CCipUnRqFz36OpoheqgxMJXJblXkZTAoJoTpGvfTQ+tZsZvWLxS//wl+u4VRmD2kc=</c2pa:manifest></metadata>
-  <title id="t">Jayanth K: SAP supply chain planning consultant</title>
-  <desc id="d">Name and positioning banner with a small animated supply network motif.</desc>
-  <style>
-    .bg { fill: #0d1117; }
-    .name { font: 700 54px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e6edf3; }
-    .role { font: 600 22px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #58a6ff; }
-    .tag { font: 500 22px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; fill: #8b98a9; }
-    .rule { stroke: #30363d; stroke-width: 1; }
-    .lane { stroke: #2dd4bf; stroke-width: 1.5; stroke-dasharray: 4 6; opacity: .75; animation: flow 2.4s linear infinite; }
-    .node { fill: #161b22; stroke: #58a6ff; stroke-width: 2; }
-    .n2 { stroke: #f5b942; }
-    .rise { animation: rise .9s ease-out both; }
-    .tag.t0 { animation: c0 15s infinite; }
-    .tag.t1 { animation: c1 15s infinite; }
-    .tag.t2 { animation: c2 15s infinite; }
-    @keyframes rise { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
-    @keyframes flow { to { stroke-dashoffset: -20; } }
-    @keyframes c0 { 0%,30% {opacity:1} 33%,97% {opacity:0} 100% {opacity:1} }
-    @keyframes c1 { 0%,30% {opacity:0} 33%,63% {opacity:1} 66%,100% {opacity:0} }
-    @keyframes c2 { 0%,63% {opacity:0} 66%,97% {opacity:1} 100% {opacity:0} }
-    @media (prefers-reduced-motion: reduce) {
-      .rise, .lane, .tag { animation: none !important; }
-    }
-  </style>
-  <rect class="bg" width="840" height="220" rx="12"/>
-  <g class="rise">
-    <text class="name" x="48" y="82">Jayanth K</text>
-    <text class="role" x="48" y="118">SAP Supply Chain Planning Consultant</text>
-  </g>
-  <text class="tag t0" x="48" y="152" opacity="1">Demand &amp; supply planning at scale</text>
-  <text class="tag t1" x="48" y="152" opacity="0">SAP IBP  ·  APO  ·  S/4HANA</text>
-  <text class="tag t2" x="48" y="152" opacity="0">Data engineering  ·  ML  ·  Cloud</text>
-  <line class="rule" x1="48" y1="178" x2="470" y2="178"/>
-  <text class="tag" x="48" y="200" style="font-size:14px">Charlotte, NC</text>
-  <g aria-hidden="true">
-    <line class="lane" x1="560" y1="58" x2="640" y2="99"/>
-    <line class="lane" x1="560" y1="140" x2="640" y2="99"/>
-    <line class="lane" x1="640" y1="99" x2="730" y2="58"/>
-    <line class="lane" x1="640" y1="99" x2="730" y2="140"/>
-    <line class="lane" x1="730" y1="58" x2="790" y2="99"/>
-    <line class="lane" x1="730" y1="140" x2="790" y2="99"/>
-    <circle class="node n0" cx="560" cy="58" r="6"/>
-    <circle class="node n1" cx="560" cy="140" r="6"/>
-    <circle class="node n2" cx="640" cy="99" r="6"/>
-    <circle class="node n0" cx="730" cy="58" r="6"/>
-    <circle class="node n1" cx="730" cy="140" r="6"/>
-    <circle class="node n2" cx="790" cy="99" r="6"/>
-  </g>
-</svg>
+<!--
+LAUNCH NOTES (delete this comment before publishing)
+1. Repo must be PUBLIC and named exactly your username: USERNAME/USERNAME.
+2. Copy the assets/ folder next to this README (run tools/generate_assets.py to regenerate).
+3. Replace every USERNAME and every [NEEDS INPUT].
+4. "Featured projects": keep only rows whose status is true today. Link a repo only once it exists.
+5. Remove the "Professional experience highlights" table rows if your employer/client confidentiality terms require it.
+-->
+
+<div align="center">
+  <img alt="Jayanth K, SAP Supply Chain Planning Consultant. Demand and supply planning, SAP IBP, APO and S/4HANA, data engineering, ML and cloud." src="hero.svg" width="100%">
+</div>
+
+<div align="center">
+  <img alt="About Jayanth K: SAP supply chain planning consultant with 4+ years in SAP IBP and SAP APO, covering demand planning, supply planning, inventory optimization and S&OP, integrated with S/4HANA. Supported 65 planners across 1,200 products, 35 locations and 180,000 planning combinations. Certified on Databricks and AWS in data engineering, ML and generative AI. Builds open, documented projects where planning, data, AI and cloud meet. Projects are personal work on synthetic data, not employer or client work." src="about.svg" width="100%">
+</div>
+
+
+<div align="center">
+  <img src="technical-ecosystem.svg" alt="Technical ecosystem. Planning: SAP IBP, SAP APO, S/4HANA including AATP. Integration: CPI-DS / CI-DS, SAP SDI, OData / IBP APIs, RTI. Data and analytics: Databricks, SAP Datasphere, SAP Analytics Cloud. ML and GenAI: Databricks ML, Databricks GenAI, AWS AI services. Cloud: AWS, SAP BTP." width="100%"/>
+</div>
+
+<div align="center">
+  <img src="planning-scale.svg" alt="Illustration of a supply network with 35 nodes, one per location. Scale of my current SAP IBP engagement: 1,200 products, 35 locations, 180,000 planning combinations, 65 planners." width="100%"/>
+</div>
+
+## Professional experience highlights
+
+Figures below come from my resume and describe production SAP work, not the projects further down.
+
+| Scope | Detail |
+|---|---|
+| Experience | 4+ years in SAP IBP and SAP APO |
+| Scale supported | 65 planners · 1,200 products · 35 locations · 180,000 planning combinations |
+| Planning models | 6 SAP IBP planning models configured; 12 demand and forecasting models built, tracking 20 planning and forecast KPIs |
+| Supply planning | 14 supply-planning scenarios designed to address 35 supply exceptions and shortages |
+| Inventory and service | Inventory and service-level planning across 900 products and 30 locations: planning efficiency +15%, service levels +4%, inventory performance +8% |
+| Integration | 9 SAP IBP integrations and 14 interfaces with S/4HANA and non-SAP systems |
+| Analytics | 8 IBP Analytics, Control Tower and Excel Add-In solutions covering 25 planning KPIs |
+| Performance | Planning and processing cycle time improved 30% across 180,000 planning combinations |
+| Delivery | 20 workshops · 28 functional designs and solution changes · 14 releases and enhancements · 50 defects and incidents resolved · 25% reduction in manual effort and recurring issues |
+
+Current role: SAP IBP Consultant, CHS Inc (Jan 2025 to present). Previously SAP APO Consultant, Mars Incorporated (Apr 2022 to Jan 2024).
+
+## Featured projects
+
+Personal and demonstration projects, built on synthetic data and documented engineering decisions. Status is updated as work ships.
+
+| Project | What it demonstrates | Stack | Status |
+|---|---|---|---|
+| planning-model-simulator | Planning-area concepts as code: key figures, planning levels, aggregation and disaggregation, scenarios | Python, FastAPI, DuckDB | [NEEDS INPUT: Planned / In progress / Released] |
+| supply-planning-optimizer | Heuristic versus optimizer supply planning over a modeled network, with shortage explanations | Python, PuLP, HiGHS | [NEEDS INPUT] |
+| forecast-accuracy-lab | Backtesting, WAPE / bias / MASE, forecast value add, segment-based model selection | Python, statsforecast, LightGBM, MLflow | [NEEDS INPUT] |
+| planning-data-lakehouse | Medallion pipeline with declarative master-data validation and reconciliation | PySpark, Delta, Databricks | [NEEDS INPUT] |
+| supply-chain-copilot | Tool-grounded GenAI assistant with numeric verification and an evaluation harness | Python, FastAPI, AWS Bedrock | [NEEDS INPUT] |
+| planning-control-tower | Exception-driven planning dashboard, deployed to AWS with Terraform | Streamlit, Plotly, Terraform, AWS | [NEEDS INPUT] |
+
+<!-- When a repo ships, change the name cell to: [planning-model-simulator](https://github.com/USERNAME/planning-model-simulator) -->
+
+## How I think about planning systems
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/planning-flow-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/planning-flow-light.svg">
+    <img alt="Planning landscape: source systems feed an integration layer, then planning, then analytics. Exceptions flow back to planners." src="assets/planning-flow-dark.svg" width="90%">
+  </picture>
+</div>
+
+A plan is only as good as the data that reaches the planning model and the attention it earns from planners. I work across all four stages: master-data quality and integration reconciliation upstream, model design in the middle, and exception-based analytics downstream so planners see what needs a decision.
+
+## Data, AI and cloud
+
+- **Data engineering:** validation, transformation and reconciliation of planning data, backed by Databricks data engineering certification.
+- **Machine learning:** forecasting evaluation and model selection, backed by Databricks ML certification.
+- **Generative AI:** grounded assistants over planning data, backed by Databricks GenAI and AWS AI certifications.
+- **Cloud:** AWS fundamentals applied to small, reproducible deployments.
+
+## Certifications
+
+- Databricks Certified Data Engineer Professional
+- Databricks Certified Machine Learning Professional
+- Databricks Certified Generative AI Engineer Associate
+- Databricks Certified Data Analyst Associate
+- AWS Certified AI Practitioner
+- AWS Certified Cloud Practitioner
+
+Verification links: [NEEDS INPUT: Credly or Databricks credential URLs]
+
+## Education
+
+- M.S. Information Science, University of North Texas (Jan 2024 to Dec 2025)
+- B.E., Siddaganga Institute of Technology (Aug 2018 to Aug 2022)
+
+## Current focus
+
+Building the projects above in the open, one documented release at a time, with CI, tests and architecture notes in each repository.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/jayanth-8b821b407/) is the best way to reach me. Charlotte, NC. [NEEDS INPUT: add your relocation line if you want it public.]
+
+<!--
+OPTIONAL: contribution and stats visuals.
+Skip third-party stats cards. The public github-readme-stats instance is shared and can hit GitHub API rate limits.
+If you want stats later, generate an SVG with your own scheduled GitHub Action and commit it to this repo, then reference it with a relative path.
+-->
+
+<p align="center"><sub>Projects use synthetic data. SAP, SAP IBP, SAP APO and S/4HANA are trademarks of SAP SE; this account is not affiliated with or endorsed by SAP.</sub></p>
