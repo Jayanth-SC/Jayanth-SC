@@ -28,16 +28,9 @@ LAUNCH NOTES (delete this comment before publishing)
   <img src="core-expertise.svg" alt="Core expertise: SAP planning models and logic (Demand, Supply, Inventory Optimization, S&OP, planning areas, key figures, time-series and order-based planning), integration and analytics (IBP-S/4HANA, CPI-DS, OData, RTI, Control Tower, BTP, Datasphere, SAC), and consulting delivery from workshops to hypercare." width="100%"/>
 </div>
 
-## Technical ecosystem
-
-| Layer | Tools |
-|---|---|
-| Planning | SAP IBP, SAP APO, S/4HANA (incl. AATP) |
-| Integration | CPI-DS / CI-DS, SAP SDI, OData / IBP APIs, RTI |
-| Data and analytics | Databricks, SAP Datasphere, SAP Analytics Cloud |
-| ML and GenAI | Databricks ML and GenAI tooling, AWS AI services |
-| Cloud | AWS, SAP BTP |
-| Project stack | Python, SQL [NEEDS INPUT: confirm before keeping] |
+<div align="center">
+  <img src="planning-scale.svg" alt="Illustration of a supply network with 35 nodes, one per location. Scale of my current SAP IBP engagement: 1,200 products, 35 locations, 180,000 planning combinations, 65 planners." width="100%"/>
+</div>
 
 ## Professional experience highlights
 
